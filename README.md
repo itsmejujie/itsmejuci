@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="PHP">
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
   <img src="https://img.icons8.com/color/2x/mysql.png" width="120" alt="MySQL">
-  <img src="https://img.icons8.com/color/2x/java.png" width="120" alt="Java">
+  <img alt = "Java" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fbreve-historia-do-java&psig=AOvVaw1pSyAh2pHdsJ-fanZYFHRO&ust=1702071459533000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiTjrak_oIDFQAAAAAdAAAAABAD">
 </table>
 
 <div> 
