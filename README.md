@@ -1,6 +1,5 @@
 # Hello World, I'm Juci, be very welcome! ^^ 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/itsmejuci">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
