@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="PHP">
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
   <img src="https://img.icons8.com/color/2x/mysql.png" width="120" alt="MySQL">
-  <img src="https://img.icons8.com/color/java/96" width="120" alt="Java">
+  <img src="https://img.icons8.com/color/java/java" width="120" alt="Java">
 </table>
 
 <div> 
